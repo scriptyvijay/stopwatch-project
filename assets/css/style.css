@@ -24,6 +24,7 @@ body {
 	background: linear-gradient(to right, #1565c0, #b92b27);
 }
 
+/* Main Container */
 .container {
 	width: 100vw;
 	height: 100vh;
@@ -34,7 +35,7 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-
+/* Time Container SECONDS :: MILLISECONDS */
 .time-container {
 	width: 100%;
 	background: rgba(255, 255, 255, 0.2);
@@ -61,6 +62,8 @@ h2 {
 	font-size: 2rem;
 	margin-bottom: 20px;
 }
+
+/* Buttons Class */
 
 button {
 	width: 150px;
